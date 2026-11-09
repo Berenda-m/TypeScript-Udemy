@@ -8,3 +8,13 @@ let y: number= 15.20
 
 console.log(y)
 console.log(typeof y)
+
+//string
+
+let nome: string= "Brenda";
+let sobrenome: string="Melo";
+const nomeCompleto= nome + " " + sobrenome;
+
+console.log(nome.toUpperCase())
+
+console.log(nomeCompleto)
